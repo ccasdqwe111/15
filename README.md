@@ -1,4 +1,4 @@
-<图片 width="300" height="200" alt="timthumb" src="https://github.com/user-attachments/assets/5114beb6-b7db-47d8-bbb6-e69a5c72812e" />#2025 多端商城系统H5源码 支持DIY直播分销 -ym7k
+# 2025 多端商城系统H5源码 支持DIY直播分销 -ym7k
 获取源码：ym7k.com/11647/	2025 多端商城系统H5源码 支持DIY直播分销	-ym7k
 
 DIY 模板篇——可视化装修引擎与多端动态渲染
@@ -20,10 +20,9 @@ DIY 页面每个组件可配置埋点事件：曝光、点击、加购、下单�
 二次开发与自定义组件
 对于有开发能力的企业，系统提供自定义组件规范。开发者可基于 Vue 组件开发新装修组件，注册到 DIY 引擎，运营即可在后台使用。常见自定义组件包括：门店列表、预约服务、知识付费、社区种草、AR 试穿等。插件化设计让商城具备生长能力。
 
-结语：DIY 模板不是“换皮肤”，而是商城运营效率的基础设施。ThinkPHP + Uniapp 多端商城系统源码通过 Schema 驱动、多端适配、模板市场与数据埋点，让运营人员拥有快速搭建页面的能力，让商城紧跟市场节奏。<图片 width="1919" height="958" alt="20250203230430100" src=“https://github.com/user-attachments/assets/b36e8840-8902-4797-bb03-c87e8ffad678” />
-<图片宽度="1919" 高度="942" alt="2025020323041222" src=“https://github.com/user-attachments/assets/9a6e72ec-8cd7-427d-8ef2-f5dcefbdf90e” />
-<img width="515" height="860" alt="2025020323040574" src="https://github.com/user-attachments/assets/620f6d01-8a5a-49c8-8659-45959a3ca79d" />
-<img width="516" height="864" alt="2025020323035761" src="https://github.com/user-attachments/assets/fe2448b0-c3ff-4573-ac43-88213bf123b1" />
-<图片 width="518" height="856" alt="2025020323034845" src="https://github.com/user-attachments/assets/6bd30f79-5692-40be-98ba-5dd50c0962b7" />
-<图片 width="519" height="854" alt="2025020323033836" src="https://github.com/user-attachments/assets/47f16b61-8adc-4f35-8a84-aab3887c71e1" />
-<图片 width="1919" height="933" alt="202502032304176" src=“https://github.com/user-attachments/assets/df684dd3-1617-4c1d-87f1-58cd4077e252” />
+结语：DIY 模板不是“换皮肤”，而是商城运营效率的基础设施。ThinkPHP + Uniapp 多端商城系统源码通过 Schema 驱动、多端适配、模板市场与数据埋点，让运营人员拥有快速搭建页面的能力，让商城紧跟市场节奏。
+<img 宽度="518" 高度="856" 替代文本="2025020323034845" 源地址="https://github.com/user-attachments/assets/07cc9ad3-1812-4703-8f9e-82c6649b94d3" />
+<img width="519" height="854" alt="2025020323033836" src="https://github.com/user-attachments/assets/c3ead0ae-c069-4275-b7b0-0f4535de5321" />
+<img width="1919" height="933" alt="202502032304176" src="https://github.com/user-attachments/assets/0f9e2b3b-1f72-489f-811d-2083a8fd1b94" />
+<img width="516" height="864" alt="2025020323035761" src="https://github.com/user-attachments/assets/d065754a-74f6-4594-ba8f-09aec24f0af0" />
+
